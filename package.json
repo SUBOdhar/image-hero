@@ -1,0 +1,26 @@
+{
+  "name": "image-hero",
+  "version": "1.0.0",
+  "description": "A image trailing component for react.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SUBOdhar/image-hero.git"
+  },
+  "keywords": [
+    "image-hero",
+    "image-trail"
+  ],
+  "author": "subodh Aryal",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SUBOdhar/image-hero/issues"
+  },
+  "homepage": "https://github.com/SUBOdhar/image-hero#readme",
+  "dependencies": {
+    "framer-motion": "^12.4.10"
+  }
+}
